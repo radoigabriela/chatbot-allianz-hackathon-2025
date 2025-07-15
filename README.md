@@ -1,4 +1,4 @@
-# Chatbot – Allianz-Țiriac Hackathon (Martie 2025)
+# Proiect 10 - Chatbot – Allianz-Țiriac Hackathon (Martie 2025)
 
 ## Descriere generală
 
