@@ -1,8 +1,25 @@
-# Proiect 10 - Chatbot – Allianz-Țiriac Hackathon (Martie 2025)
+# Proiect 11 – Chatbot pentru Allianz-Țiriac
 
-## Descriere generală
+Acest repository conține o demonstrație de concept a unui chatbot web, realizat cu Flask, care răspunde automat la întrebări frecvente legate de serviciile oferite de Allianz-Țiriac.
 
-În cadrul evenimentului, am contribuit cu ideea unui **chatbot inteligent** care ar putea fi integrat într-o aplicație mobilă a companiei, cu scopul de a automatiza interacțiunea cu utilizatorii și de a răspunde la întrebări frecvente.
+Proiectul a fost realizat în cadrul **Allianz-Țiriac Hackathon (Martie 2025)**, având scopul de a automatiza interacțiunea cu utilizatorii printr-o interfață prietenoasă, ce poate fi integrată într-o aplicație mobilă.
+
+### Funcționalități principale
+
+Chatbotul răspunde automat la întrebări legate de:
+- asigurări auto (daune, constatare amiabilă, reparații)
+- asigurări de locuință
+- asigurări de viață
+- garanții contractuale
+- servicii medicale și decontări
+
+Funcționează pe baza unui dicționar static de întrebări și răspunsuri predefinite, fiind un **proof of concept**, nu un produs final.
+
+### Tehnologii utilizate
+
+- Python 
+- Flask (framework web)
+- HTML (pentru interfața simplă de utilizator)
 
 ## Rolul meu
 
@@ -10,4 +27,4 @@
 - Am participat activ la definirea scopului și utilității funcției în aplicație.
 - Am contribuit la prezentarea finală a proiectului în fața juriului.
 
-## Acest cod nu reprezintă un produs final, ci o demonstrație de concept, creată în contextul unui hackathon cu durată limitată.
+## Aceasta este o demonstrație de concept, creată în contextul unui hackathon cu durată limitată.
