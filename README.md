@@ -9,9 +9,5 @@
 - Am propus ideea chatbotului și fluxul general de interacțiune.
 - Am participat activ la definirea scopului și utilității funcției în aplicație.
 - Am contribuit la prezentarea finală a proiectului în fața juriului.
-- 
-## Conținut
-
-- `chatbot.py` – script de test ilustrativ pentru direcția funcțională propusă.
 
 ## Acest cod nu reprezintă un produs final, ci o demonstrație de concept, creată în contextul unui hackathon cu durată limitată.
